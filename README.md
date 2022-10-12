@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pHellowWorld
+- 👀 I’m interested in becoming a software engineer
+- 🌱 I’m currently learning Python
